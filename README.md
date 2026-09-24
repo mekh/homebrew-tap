@@ -35,6 +35,7 @@ brew uninstall --zap --cask <cask>    # also remove its settings
 | App | What it does | Install |
 | --- | --- | --- |
 | [Keymory](https://github.com/mekh/keymory) | Menu-bar utility that remembers keyboard input source per app | `brew install --cask mekh/tap/keymory` |
+| [Warpinator](https://github.com/mekh/warpinator-swift) | Send files between devices on a local network | `brew install --cask mekh/tap/warpinator` |
 <!-- casks:end -->
 
 ## How releases work
