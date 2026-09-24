@@ -32,7 +32,9 @@ brew uninstall --zap --cask <cask>    # also remove its settings
 ## Casks
 
 <!-- casks:start -->
-_No casks yet._
+| App | What it does | Install |
+| --- | --- | --- |
+| [Keymory](https://github.com/mekh/keymory) | Menu-bar utility that remembers keyboard input source per app | `brew install --cask mekh/tap/keymory` |
 <!-- casks:end -->
 
 ## How releases work
