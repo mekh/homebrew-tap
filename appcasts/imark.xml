@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Imark</title>
+        <item>
+            <title>0.6.2</title>
+            <pubDate>Thu, 24 Sep 2026 21:24:37 +0300</pubDate>
+            <link>https://github.com/mekh/imark</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/mekh/homebrew-tap/releases/tag/imark-v0.6.2</sparkle:fullReleaseNotesLink>
+            <sparkle:version>0.6.2</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/mekh/homebrew-tap/releases/download/imark-v0.6.2/Imark-0.6.2.dmg" length="7940352" type="application/octet-stream" sparkle:edSignature="yprr3sg0zBVXADwJ/sSnuJaPCDM/hJgQChue2l2LjAoSzAwK3qjB1QPfy5OqjsvaHj40NZw7aCy0OnWzPDLlCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: sP2mRJpGNCkrLVJ+avBW+ann5qwVwdM7+4Vj3cseH/P9YFte19gJlM230nHNlx5FNlUL1Dgp+b0mGdMc600hDQ==
+length: 1315
+-->
