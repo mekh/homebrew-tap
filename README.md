@@ -39,6 +39,11 @@ brew uninstall --zap --cask <cask>    # also remove its settings
 | [Warpinator](https://github.com/mekh/warpinator-swift) | Send files between devices on a local network | `brew install --cask mekh/tap/warpinator` |
 <!-- casks:end -->
 
+## Guides
+
+- [Imark](docs/imark.md): installing and updating, and setting up Ask with Claude Code,
+  Codex, OpenAI, OpenRouter, the Anthropic API or a local model.
+
 ## How releases work
 
 - Each `.dmg` is an asset of a release in this repository, tagged `<cask>-v<version>`
