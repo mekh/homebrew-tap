@@ -1,6 +1,6 @@
 cask "imark" do
-  version "1.1.1"
-  sha256 "b67b4ff4e04e492bc6da9e5dd72e194423e318ac3df0d182e8a04af151bd287f"
+  version "1.1.2"
+  sha256 "ae08bb8ffdef81ea376ff33b2eb85c67147fafdfdfdd0b3bd591370a1c23926a"
 
   url "https://github.com/mekh/homebrew-tap/releases/download/imark-v#{version}/Imark-#{version}.dmg"
   name "Imark"
