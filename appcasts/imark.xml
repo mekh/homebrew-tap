@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Imark</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Sun, 27 Sep 2026 16:06:46 +0300</pubDate>
+            <title>1.1.3</title>
+            <pubDate>Tue, 29 Sep 2026 07:55:15 +0300</pubDate>
             <link>https://github.com/mekh/imark</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/mekh/homebrew-tap/releases/tag/imark-v1.1.2</sparkle:fullReleaseNotesLink>
-            <sparkle:version>1.1.2</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:fullReleaseNotesLink>https://github.com/mekh/homebrew-tap/releases/tag/imark-v1.1.3</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1.1.3</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/mekh/homebrew-tap/releases/download/imark-v1.1.2/Imark-1.1.2.dmg" length="8368189" type="application/octet-stream" sparkle:edSignature="gdIfsQHukAu19xlFAywCewp7Wz4yZJNQ2zrgkJohOSWR9Vgu+yrSQjdZ/0bvZJaydsY22Iu/neuN+jDlvDdnCg=="></enclosure>
+            <enclosure url="https://github.com/mekh/homebrew-tap/releases/download/imark-v1.1.3/Imark-1.1.3.dmg" length="8368650" type="application/octet-stream" sparkle:edSignature="Qsy/NSqu4sSniPnLEz8oreeie9O68Gj7bEoNNrpjywv89/AJCwQ2ZAv9ezIxKoTTMHUuzqPYpPC8CGJbm+gNBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qCGyET4HNUbSHaahguI1nWQGZNMtoqLS0cx7eZY6UV4djxndX73XeDCi9vFz0IuRYn3LAN9YWITMxQ5325+zBQ==
+edSignature: Eqsnh8YP5h6NlW+1gcDYPLOM7zPYqF6zt4xIbY1QN7mAN5ngKZaFWzFaECFRZ7R14GoHQe+aexHeO81SrAbQDA==
 length: 1315
 -->
